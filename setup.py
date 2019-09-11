@@ -9,7 +9,7 @@ setup(
     description='Numba accelerated PyTorch Optimizers',
 
     # The project's main homepage.
-    url='https://github.com/madsbk/pytorch-optimizers',
+    url='https://github.com/rapidsai/deeplearning',
 
     # Author details
     author='Mads R. B. Kristensen',
